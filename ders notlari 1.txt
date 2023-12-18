@@ -1,0 +1,30 @@
+HADOOP
+HBASE
+MAP REDUCE
+GELENEKSEL VERİTABANLARI
+	Microsoft SQL Server
+	Oracle
+	PostgreSQL
+
+YENİ NESİL VERİTABANLARI
+	NoSQL - Not Only SQL
+	Yatay Ölçeklendirilmiş Veritanları
+		HADOOP - Apache 
+			Hive Hbase -  MAP REDUCE
+
+MSSQLSERVER - Default
+Default Instance - Named Instance
+	
+Authentication - Kimlik Doğrulaması
+	Windows
+	Mixed (Windows Users - SQL Users)
+Authorization - Yetkilendirme
+
+OS - İşletim Sistemi - Windows NT
+
+sa - System Administrator
+
+
+
+
+

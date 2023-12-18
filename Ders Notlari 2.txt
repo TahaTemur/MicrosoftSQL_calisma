@@ -1,0 +1,44 @@
+DATABASES MANAGEMENT - Veritabanı Yönetimi
+DATABASES MANAGEMENT SYSTEMS - Veritabanı Yönetim Sistemleri
+DBMS - Veritabanı Yönetimi
+RDBMS - Veritabanı Yönetim Sistemleri
+
+Relational : İlişkisel (Bağ olan ; içinde bağlar var)
+
+INNER JOIN - Benzer veriler üzerinden bağlama
+OUTER JOIN - Benzeşmeyenler üzerinden bağlama
+
+ALIAS - Kısaltma - Lakap
+
+CI - Case Insensitive (Sensitive - Duyarlı - Hassas - Dikkate Alan)
+
+Case - Büyük Küçük Harf - CI ise 'D' ve 'd' eşittir
+
+CS - Case Sensitive  - Büyük harf ve küçük harfe duyarlı ('D' ve 'd' Aynı değildir)
+
+AI - Accent (Aksan - Şive - Ağız - Telaffuz)
+Eczane
+
+Color - Colour 
+Center - Centre
+
+Collation - Turkish_Cı_AI
+Collation - Turkish_100_CI_AI
+
+WS,KS,BIN,BIN2 --> Haftaya ÖDEV
+
+Oracle, Microsoft SQL
+MySQL, Microsoft SQL
+Sysbase
+Sysbase 6.0 -- MSSQL 6.5
+7.0
+2000 8.0
+2005 9.0
+2008 10.0  --> Collation - Turkish_100_CI_AI  (10.0 da nokta çıktığı zaman : 100 olur ve bu sanallaştırmanın aktif olmadığı sürümün olduğunu belirtir)
+2008R2 - Hypervisor, Hyper-V, Sanallaştırma 10.5
+2012 11.0
+2014 12.0
+2016 13.0 
+2017 14.0
+2019 15.0
+2022 16.0
